@@ -103,7 +103,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ![image](https://user-images.githubusercontent.com/47991015/168085384-7e75a642-51d8-4e90-b984-70347a7ef9cd.png)
 ![image](https://user-images.githubusercontent.com/47991015/168085443-fc773abb-11da-4ec2-a63c-d44bc0af228d.png)
 
-##7. Split string by two letters
+## 7. Split string by two letters
 
 Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
 
