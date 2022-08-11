@@ -112,7 +112,7 @@ Examples:
 * 'abc' =>  ['ab', 'c_']
 * 'abcdef' => ['ab', 'cd', 'ef']
 
-## 9. Sum of digits in a number
+## 8. Sum of digits in a number
 
 Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. The input will be a non-negative integer.
 
