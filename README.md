@@ -176,6 +176,7 @@ SS = seconds, padded to 2 digits, range: 00 - 59  <br>
 
 The maximum time never exceeds 359999 (99:59:59)
 
+## Examples
 (0), '00:00:00' <br>
 (59), '00:00:59' <br>
 (45296), '12:34:56' <br>
