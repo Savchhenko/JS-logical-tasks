@@ -165,3 +165,17 @@ There will always be only one integer that appears an odd number of times.
 [1,1,2] should return 2, because it occurs 1 time (which is odd). <br>
 [0,1,0,1,0] should return 0, because it occurs 3 times (which is odd). <br>
 [1,2,2,3,3,3,4,3,3,3,2,2,1] should return 4, because it appears 1 time (which is odd). <br>
+
+# 13. timeConverter(number)
+
+Write a function, which takes a non-negative integer (seconds) as input and returns the time in a human-readable format (HH:MM:SS)
+
+HH = hours, padded to 2 digits, range: 00 - 99  <br>
+MM = minutes, padded to 2 digits, range: 00 - 59  <br>
+SS = seconds, padded to 2 digits, range: 00 - 59  <br>
+
+The maximum time never exceeds 359999 (99:59:59)
+
+(0), '00:00:00' <br>
+(59), '00:00:59' <br>
+(45296), '12:34:56' <br>
