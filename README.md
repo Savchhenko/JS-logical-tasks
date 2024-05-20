@@ -185,3 +185,17 @@ The maximum time never exceeds 359999 (99:59:59)
 
 Заменяет средний элемент массива на новый элемент. <br>
 Если массив с четным количеством элементов, то добавляется средний, и таким образом длина массива увеличивается на 1.
+
+# 15. permutations(string)
+
+To solve task we need to create all permutations of a non-empty input string and remove duplicates, if present.
+Create as many "shufflings" as you can!
+
+## Examples:
+
+With input 'a':<br>
+Your function should return: ['a']<br>
+
+'ab': return ['ab', 'ba']<br>
+'abc': return ['abc', 'acb', 'bac', 'bca', 'cab', 'cba']<br>
+'aabb': return ['aabb', 'abab', 'abba', 'baab', 'baba', 'bbaa']<br>
