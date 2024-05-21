@@ -1,4 +1,5 @@
-//*this solution works only for Node.js v20 and higher because of array method toSorted()
+//*this solution works only for Node.js v20 and higher because of array method toSpliced()
+//for node.js v18 and older instead of toSpliced use: arr.slice(0, i).concat(arr.slice(i+1))
 
 //'a': return: ['a']
 //'ab': return ['ab', 'ba']
