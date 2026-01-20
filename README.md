@@ -199,3 +199,5 @@ Your function should return: ['a']<br>
 'ab': return ['ab', 'ba']<br>
 'abc': return ['abc', 'acb', 'bac', 'bca', 'cab', 'cba']<br>
 'aabb': return ['aabb', 'abab', 'abba', 'baab', 'baba', 'bbaa']<br>
+
+# 16. Кастомная реализация метода map у массивов
