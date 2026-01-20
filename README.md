@@ -200,4 +200,4 @@ Your function should return: ['a']<br>
 'abc': return ['abc', 'acb', 'bac', 'bca', 'cab', 'cba']<br>
 'aabb': return ['aabb', 'abab', 'abba', 'baab', 'baba', 'bbaa']<br>
 
-# 16. Кастомная реализация метода map у массивов
+# 16. Кастомная реализация встроенных методов массива (map, filter, reduce)
