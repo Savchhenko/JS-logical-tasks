@@ -201,3 +201,5 @@ Your function should return: ['a']<br>
 'aabb': return ['aabb', 'abab', 'abba', 'baab', 'baba', 'bbaa']<br>
 
 # 16. Кастомная реализация встроенных методов массива (map, filter, reduce)
+
+# 17. Группировка строк - анаграмм
